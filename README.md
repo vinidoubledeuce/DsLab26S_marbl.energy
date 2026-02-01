@@ -16,7 +16,7 @@ This project investigates electricity price patterns in European wholesale marke
 
 | Zone | Region | Primary Generation | Characteristics |
 |------|--------|-------------------|-----------------|
-| **DK1** | Denmark West | Wind (55%) | High volatility, strong seasonal patterns |
+| **DK1** | Denmark West | Wind | High volatility, strong seasonal patterns |
 | **ES** | Spain | Solar | Midday price dips, summer peaks |
 | **NO2** | South Norway | Hydro | Stable baseload, interconnector hub |
 
