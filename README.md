@@ -2,11 +2,9 @@
   <img src="marbl.png" alt="MARBL Energy" width="200"/>
 </p>
 
-# MARBL Energy Dashboard
+# Electricity Price Trends and Market Volatility in Europe
 
-**Electricity Price Forecasting for European Markets**
-
-A data science project analyzing electricity price dynamics across three European bidding zones with different generation profiles, featuring an interactive Streamlit dashboard with ML-powered day-ahead price forecasting.
+A data science project analyzing electricity price dynamics and market volatility across three European bidding zones with different generation profiles, featuring an interactive Streamlit dashboard with ML-powered day-ahead price forecasting.
 
 ---
 
@@ -165,16 +163,12 @@ This architecture captures distinct market regimes (e.g., high-wind days vs. cal
 
 ## Team
 
-| Name | Role |
-|------|------|
-| Maximilian Dieringer | Developer |
-| Harald Körbel | Developer |
-| Maxim Gomez Valverde | Developer |
-| Daniel Klaric | Developer |
-
-**Supervisor:** Univ.Prof. Dr. Kavita Surana, WU Vienna
-
-**Client:** Marbl FlexCo
+| Name | Responsibility |
+|------|----------------|
+| Maximilian Dieringer | Cluster Analysis |
+| Harald Körbel | Prediction Modelling |
+| Maxim Gomez Valverde | Ingestion, Preprocessing & Dashboard |
+| Daniel Klaric | Ingestion & Prediction Modelling |
 
 ---
 
