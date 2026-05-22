@@ -1,0 +1,2 @@
+zone,start_date,end_date,total_hours,expected_hours,coverage_pct,price_nulls,weather_nulls
+FR,2023-01-01 01:00:00+01:00,2026-03-29 06:00:00+02:00,28389,28396,100.0,0,0
